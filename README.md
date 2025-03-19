@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋! I'm a CF. Welcome to my GitHub!✨</h2>
 
 <p>- 🌱 I’m currently learning JavaScript at CIFO La Violeta.</p>
-<p>- 📫 How to reach me: feriarcamila@gmail.com.</p>
+<!-- <p>- 📫 How to reach me: feriarcamila@gmail.com.</p> -->
 <!-- - ✨ -->
 
 ###
